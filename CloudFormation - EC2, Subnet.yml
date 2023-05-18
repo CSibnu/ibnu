@@ -11,7 +11,7 @@
   Mappings:
     SubnetConfig:
       VPC:
-        CIDR: "10.70.0.0/24"
+        CIDR: "10.70.0.0/12"
       Public0:
         CIDR: "10.70.1.0/24"
       Public1:
